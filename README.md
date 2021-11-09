@@ -3,7 +3,7 @@ I'm Abigail Stamm, (@ajstamm), a researcher with the New York State Department o
 My hobbies include art, creative writing, and computer programming. 
 * Try out my R package, the [Geographic Aggregation Tool](https://github.com/ajstamm/gatpkg)
 * Review my [R workshops](https://ajstamm.github.io/titanic)
-* Check out my [Blinks games](https://github.com/ajstamm/blinks_public)
+* Check out my games for the [Blinks game system](https://github.com/ajstamm/blinks_public) and on [Itch](https://ajstamm.itch.io)
 * Visit my [Art gallery](https://anabiyeni.deviantart.com)
 
 The best way to reach me is via my university email, astamm at albany dot edu. 
